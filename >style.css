@@ -1,11 +1,8 @@
-body{
+.body{
     background-color: #383d58;
     color: white;
 }
-.cabeçalho-imagem{
-    width: 20%;
-}
-.cabecalho{
+.cabecalho-imagem{
     width: 20%;
 }
 .cabecalho{
@@ -13,6 +10,7 @@ body{
     color: white;
     display: flex;
     justify-content: space-around;
+    padding: 24px 0;
 }
 .cabecalho-lista-item{
     display: inline-block;
@@ -23,4 +21,21 @@ body{
 *{
     margin: 0;
     padding: 0;
+}
+.escola-imagem{
+    width: 25%;
+}
+.escola{
+    background-color:( #383d58, #00c0eb);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.escola-titulo{
+    padding: 24px 0;
+}
+.escola-conteudo{
+width: 35%;
 }
