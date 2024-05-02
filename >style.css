@@ -1,11 +1,12 @@
 body {
     background: #383d58;
     color: white;
-}
+  }
     .cabecalho-imagem{
         width: 20%;
     }
- .cabecalho {
+  
+     .cabecalho {
         background-color:  #383d58;
         color: white;
         display: flex;
@@ -39,23 +40,23 @@ body {
         width: 35%;
     }
     body {
-        font-family: "poppins", sans-serif;
-    }
-    .estudante-imagem{
-        width: 120px;
-    }
-    .estudante-icone{
-        width: 24px;
-    }
-    .estudante-icone{
-        text-align: center;
-        padding: 50px 0;
-    }
-    .estudante-titulo{
-        text-align: center;
-        padding: 50px 0;
-    }
-.estudante-todos{
-    display: grid;
-    grid-template-columns: 20% 20% 20% 20%;
-}
+      font-family: "poppins", sans-serif;
+  }
+  .estudante-imagem{
+      width: 120px;
+  }
+  .estudante-icone{
+      width: 24px;
+  }
+  .estudante-icone{
+      text-align: center;
+      padding: 50px 0;
+  }
+  .estudante-titulo{
+      text-align: center;
+      padding: 50px 0;
+  }
+  .estudante-todos{
+     display: grid;
+     grid-template-columns: 20% 20% 20% 20%;
+  }
